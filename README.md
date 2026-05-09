@@ -1,5 +1,5 @@
-# HI I'M SANA.
-#----------------------------------------------------------------------------------------------------------------------------
+# Hi! I'M SANA.
+
 
 # 💫 About Me:
 MERN Stack Developer | React.js & Node.js Enthusiast | Building responsive and user-friendly web applications
