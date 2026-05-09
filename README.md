@@ -1,4 +1,5 @@
-**HI I'M SANA.**
+# HI I'M SANA.
+#----------------------------------------------------------------------------------------------------------------------------
 
 # 💫 About Me:
 MERN Stack Developer | React.js & Node.js Enthusiast | Building responsive and user-friendly web applications
@@ -17,4 +18,4 @@ MERN Stack Developer | React.js & Node.js Enthusiast | Building responsive and u
 ---
 [![](https://komarev.com/ghpvc/?username=sanathecoder&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
