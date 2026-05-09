@@ -16,6 +16,6 @@ MERN Stack Developer | React.js & Node.js Enthusiast | Building responsive and u
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanathecoder&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sanathecoder&icon=7&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sanathecoder&icon=7&color=5)](https://music-app-kappa-sand.vercel.app/)
 
 
