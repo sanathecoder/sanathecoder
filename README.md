@@ -18,7 +18,8 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="Coding GIF"/>
+
+<img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" alt="Coding GIF"/>
 
 ```javascript
 const sanaKhan = {
