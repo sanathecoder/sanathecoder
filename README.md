@@ -97,16 +97,9 @@ const sanaKhan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanakhan&theme=tokyonight&border=C678DD&ring=C678DD&fire=FF79C6&currStreakLabel=C678DD" width="48%"/>
-
-<br/><br/>
-
-
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanakhan&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
