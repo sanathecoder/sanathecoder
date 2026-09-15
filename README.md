@@ -98,7 +98,7 @@ const sanaKhan = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanakhan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanathecoder&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
